@@ -1,0 +1,177 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+.backgroundimage {
+    background-image: url("https://img.freepik.com/free-photo/3d-female-yoga-pose-against-sunset-landscape_1048-9243.jpg?w=1060&t=st=1692248203~exp=1692248803~hmac=116a7ccf6a9db69df0e1d32abc364eb39b19aabece7f9e50eedc2b2ad04d2822");
+    background-size: cover;
+    height: 90vh;
+    width: 100vw;
+}
+
+.headingstyle {
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 50px;
+    text-align: center;
+    padding: 10px;
+    text-decoration:underline
+}
+
+.para1 {
+    text-align: left;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: serif;
+}
+
+.email {
+    height: 15px;
+    width: 20px;
+}
+
+.contact {
+    height: 20px;
+    width: 20px;
+}
+
+.para2 {
+    color: #000000;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: Georgia;
+    padding: 30px;
+}
+
+.para3 {
+    color: #000000;
+    font-size: 15px;
+    font-family: Segoe UI;
+}
+
+.textalign {
+    text-align: center;
+    padding: 15px;
+}
+
+.bottom {
+    background-color: #e6f6ff;
+    height: 80vh;
+    width: 100%;
+    padding: 10px;
+    text-align: center;
+}
+
+.h1 {
+    font-family: Caveat;
+    font-size: 40px;
+    color: #002966;
+    margin: 20px;
+}
+
+.carditem {
+    text-align: center;
+    background-color: #d279a6;
+    width: 200px;
+    border-radius: 30px;
+    padding: 25px;
+    margin: 15px;
+}
+
+.cardimage {
+    height: 150px;
+    width: 150px;
+}
+
+.cardname {
+    font-family: "Arial";
+    font-size: 20px;
+    color: #000066;
+    margin: 4px;
+
+}
+
+.heading2 {
+    font-family: Brush Script MT;
+    text-align: center;
+    font-size: 60px;
+    text-decoration: underline;
+    color: #ff1ac6;
+    margin: 10px;
+}
+
+.heading2para1 {
+    color: #000080;
+    font-family: Times New Roman;
+    font-size: 30px;
+    padding: 3px;
+}
+
+.heading2para2 {
+    color: #000000;
+    font-family: calibri;
+    font-size: 20px;
+    padding: 3px;
+
+}
+
+.heading23 {
+    font-family: times Times New Roman;
+    text-align: center;
+    font-size: 30px;
+    text-decoration: underline;
+    color: #000080;
+    margin: 10px;
+}
+
+.card1 {
+    background-color: white;
+    border-bottom-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    margin: 10px;
+    padding: 100px;
+    text-align: center;
+}
+
+.buttonpadding {
+    padding: 20px;
+}
+
+.loginbox {
+    width: 400px;
+    height: 500px;
+    background: #000;
+    color: #fff;
+    border-radius: 10px;
+}
+
+.avatar {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin: 15px;
+}
+
+.p {
+    font-size: 23px;
+}
+
+.fotterheading {
+    font-size: 35px;
+    color: #b300b3;
+}
+
+.fotterpara1 {
+    font-size: 35px;
+    color: black;
+    font-family: Calibri;
+}
+
+.fotterpara2 {
+    font-size: 30px;
+    color: black;
+    font-family: Aptos Narrow;
+}
